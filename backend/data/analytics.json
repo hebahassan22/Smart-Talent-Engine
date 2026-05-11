@@ -1,0 +1,464 @@
+{
+  "users": {
+    "1778505228537": {
+      "total_resumes": 6,
+      "total_analyses": 2,
+      "avg_score": 86.16666666666667,
+      "top_skills": {
+        "React": 1,
+        "Node.js": 3,
+        "PostgreSQL": 1,
+        "Docker": 2,
+        "AWS": 1,
+        "CI/CD pipelines": 1,
+        "React.js": 1,
+        "TypeScript": 1,
+        "REST APIs": 1,
+        "GraphQL": 1,
+        "Cardiology": 1,
+        "ECG Interpretation": 1,
+        "Patient Counseling": 1,
+        "Emergency Response": 1,
+        "Pediatrics": 1,
+        "Child Healthcare": 1,
+        "Vaccination Programs": 1,
+        "Patient Communication": 1,
+        "Medical Assessment": 1,
+        "Patient Care": 1,
+        "Emergency Medicine": 1,
+        "Clinical Diagnosis": 1,
+        "Medical Documentation": 1
+      },
+      "recent_candidates": [
+        {
+          "name": "Dr. Emily Watson",
+          "score": 90,
+          "experience_level": "Senior",
+          "filename": "Dr_Emily_Watson_Resume.pdf",
+          "job_role": "doctor",
+          "time": "2026-05-11T13:16:52.668Z"
+        },
+        {
+          "name": "Dr. Sophia Anderson",
+          "score": 90,
+          "experience_level": "Senior",
+          "filename": "Dr_Sophia_Anderson_Resume.pdf",
+          "job_role": "doctor",
+          "time": "2026-05-11T13:16:52.668Z"
+        },
+        {
+          "name": "Dr. Michael Brown",
+          "score": 92,
+          "experience_level": "Senior",
+          "filename": "Dr_Michael_Brown_Resume.pdf",
+          "job_role": "doctor",
+          "time": "2026-05-11T13:16:52.668Z"
+        },
+        {
+          "name": "Michael Anderson",
+          "score": 78,
+          "experience_level": "Junior",
+          "filename": "Michael_Anderson_Resume.pdf",
+          "job_role": "fullstack engineer",
+          "time": "2026-05-11T13:14:55.982Z"
+        },
+        {
+          "name": "Sophia Williams",
+          "score": 82,
+          "experience_level": "Junior",
+          "filename": "Sophia_Williams_Resume.pdf",
+          "job_role": "fullstack engineer",
+          "time": "2026-05-11T13:14:55.982Z"
+        },
+        {
+          "name": "Daniel Carter",
+          "score": 85,
+          "experience_level": "Mid",
+          "filename": "Daniel_Carter_Resume.pdf",
+          "job_role": "fullstack engineer",
+          "time": "2026-05-11T13:14:55.982Z"
+        }
+      ],
+      "score_distribution": {
+        "0-20": 0,
+        "21-40": 0,
+        "41-60": 0,
+        "61-80": 1,
+        "81-100": 5
+      },
+      "uploads_by_day": {
+        "2026-05-11": 6
+      },
+      "job_roles": {
+        "fullstack engineer": {
+          "count": 1,
+          "resume_count": 3,
+          "total_score": 245,
+          "top_candidate": {
+            "name": "Daniel Carter",
+            "score": 85,
+            "experience_level": "Mid",
+            "matched_skills": [
+              "React",
+              "Node.js",
+              "PostgreSQL"
+            ]
+          },
+          "last_analyzed": "2026-05-11T13:14:55.982Z",
+          "batches": [
+            {
+              "date": "2026-05-11",
+              "time": "2026-05-11T13:14:55.982Z",
+              "count": 3,
+              "avg_score": 82,
+              "top_candidate": "Daniel Carter"
+            }
+          ]
+        },
+        "doctor": {
+          "count": 1,
+          "resume_count": 3,
+          "total_score": 272,
+          "top_candidate": {
+            "name": "Dr. Michael Brown",
+            "score": 92,
+            "experience_level": "Senior",
+            "matched_skills": [
+              "Cardiology",
+              "ECG Interpretation",
+              "Patient Counseling"
+            ]
+          },
+          "last_analyzed": "2026-05-11T13:16:52.668Z",
+          "batches": [
+            {
+              "date": "2026-05-11",
+              "time": "2026-05-11T13:16:52.668Z",
+              "count": 3,
+              "avg_score": 91,
+              "top_candidate": "Dr. Michael Brown"
+            }
+          ]
+        }
+      }
+    },
+    "1778062779229": {
+      "total_resumes": 6,
+      "total_analyses": 2,
+      "avg_score": 85.83333333333333,
+      "top_skills": {
+        "React": 2,
+        "Node.js": 3,
+        "PostgreSQL": 3,
+        "Docker": 3,
+        "AWS": 2,
+        "React.js": 2,
+        "Next.js": 1,
+        "Express.js": 1,
+        "MongoDB": 2,
+        "TypeScript": 3,
+        "RESTful API design": 1,
+        "REST APIs": 1,
+        "Vue.js": 1,
+        "Firebase": 1,
+        "Tailwind CSS": 1,
+        "MySQL": 1,
+        "CI/CD pipelines": 1,
+        "GraphQL": 1,
+        "Angular": 1,
+        "NestJS": 1,
+        "Azure": 1,
+        "Redis": 1,
+        "Cardiology": 1,
+        "ECG Interpretation": 1,
+        "Patient Counseling": 1,
+        "Emergency Response": 1,
+        "Clinical Research": 1,
+        "Patient Care": 1,
+        "Emergency Medicine": 1,
+        "Clinical Diagnosis": 1,
+        "Medical Documentation": 1,
+        "Healthcare Management": 1,
+        "Pediatrics": 1,
+        "Child Healthcare": 1,
+        "Vaccination Programs": 1,
+        "Patient Communication": 1,
+        "Medical Assessment": 1
+      },
+      "recent_candidates": [
+        {
+          "name": "Dr. Sophia Anderson",
+          "score": 88,
+          "experience_level": "Senior",
+          "filename": "Dr_Sophia_Anderson_Resume.pdf",
+          "job_role": "doctor",
+          "time": "2026-05-11T13:27:43.708Z"
+        },
+        {
+          "name": "Dr. Emily Watson",
+          "score": 90,
+          "experience_level": "Senior",
+          "filename": "Dr_Emily_Watson_Resume.pdf",
+          "job_role": "doctor",
+          "time": "2026-05-11T13:27:43.708Z"
+        },
+        {
+          "name": "Dr. Michael Brown",
+          "score": 92,
+          "experience_level": "Senior",
+          "filename": "Dr_Michael_Brown_Resume.pdf",
+          "job_role": "doctor",
+          "time": "2026-05-11T13:27:43.708Z"
+        },
+        {
+          "name": "Michael Anderson",
+          "score": 78,
+          "experience_level": "Junior",
+          "filename": "Michael_Anderson_Resume.pdf",
+          "job_role": "full stack engineer",
+          "time": "2026-05-11T13:26:54.789Z"
+        },
+        {
+          "name": "Sophia Williams",
+          "score": 82,
+          "experience_level": "Junior",
+          "filename": "Sophia_Williams_Resume.pdf",
+          "job_role": "full stack engineer",
+          "time": "2026-05-11T13:26:54.789Z"
+        },
+        {
+          "name": "Daniel Carter",
+          "score": 85,
+          "experience_level": "Mid",
+          "filename": "Daniel_Carter_Resume.pdf",
+          "job_role": "full stack engineer",
+          "time": "2026-05-11T13:26:54.789Z"
+        }
+      ],
+      "score_distribution": {
+        "0-20": 0,
+        "21-40": 0,
+        "41-60": 0,
+        "61-80": 1,
+        "81-100": 5
+      },
+      "uploads_by_day": {
+        "2026-05-11": 6
+      },
+      "job_roles": {
+        "full stack engineer": {
+          "count": 1,
+          "resume_count": 3,
+          "total_score": 245,
+          "top_candidate": {
+            "name": "Daniel Carter",
+            "score": 85,
+            "experience_level": "Mid",
+            "matched_skills": [
+              "React",
+              "Node.js",
+              "PostgreSQL"
+            ]
+          },
+          "last_analyzed": "2026-05-11T13:26:54.789Z",
+          "batches": [
+            {
+              "date": "2026-05-11",
+              "time": "2026-05-11T13:26:54.789Z",
+              "count": 3,
+              "avg_score": 82,
+              "top_candidate": "Daniel Carter"
+            }
+          ]
+        },
+        "doctor": {
+          "count": 1,
+          "resume_count": 3,
+          "total_score": 270,
+          "top_candidate": {
+            "name": "Dr. Michael Brown",
+            "score": 92,
+            "experience_level": "Senior",
+            "matched_skills": [
+              "Cardiology",
+              "ECG Interpretation",
+              "Patient Counseling"
+            ]
+          },
+          "last_analyzed": "2026-05-11T13:27:43.708Z",
+          "batches": [
+            {
+              "date": "2026-05-11",
+              "time": "2026-05-11T13:27:43.708Z",
+              "count": 3,
+              "avg_score": 90,
+              "top_candidate": "Dr. Michael Brown"
+            }
+          ]
+        }
+      }
+    },
+    "1778504058637": {
+      "total_resumes": 6,
+      "total_analyses": 2,
+      "avg_score": 87.5,
+      "top_skills": {
+        "Pediatrics": 1,
+        "Child Healthcare": 1,
+        "Vaccination Programs": 1,
+        "Patient Communication": 1,
+        "Medical Assessment": 1,
+        "Patient Care": 1,
+        "Emergency Medicine": 1,
+        "Clinical Diagnosis": 1,
+        "Medical Documentation": 1,
+        "Healthcare Management": 1,
+        "Clinical knowledge": 1,
+        "Patient care skills": 1,
+        "Diagnosing illnesses": 1,
+        "Prescribing treatments": 1,
+        "Maintaining patient records": 1,
+        "Cardiology": 1,
+        "ECG Interpretation": 1,
+        "Patient Counseling": 1,
+        "Emergency Response": 1,
+        "Clinical Research": 1,
+        "Compassionate healthcare services": 1,
+        "React": 2,
+        "Node.js": 3,
+        "PostgreSQL": 3,
+        "Docker": 3,
+        "AWS": 2,
+        "React.js": 2,
+        "Next.js": 1,
+        "Express.js": 1,
+        "MongoDB": 2,
+        "TypeScript": 3,
+        "RESTful API design": 1,
+        "REST APIs": 1,
+        "Vue.js": 1,
+        "Firebase": 1,
+        "Tailwind CSS": 1,
+        "MySQL": 1,
+        "CI/CD pipelines": 1,
+        "GraphQL": 1,
+        "Angular": 1,
+        "NestJS": 1,
+        "Azure": 1,
+        "Redis": 1
+      },
+      "recent_candidates": [
+        {
+          "name": "Michael Anderson",
+          "score": 82,
+          "experience_level": "Junior",
+          "filename": "Michael_Anderson_Resume.pdf",
+          "job_role": "fullstack engineer",
+          "time": "2026-05-11T18:34:59.077Z"
+        },
+        {
+          "name": "Sophia Williams",
+          "score": 82,
+          "experience_level": "Junior",
+          "filename": "Sophia_Williams_Resume.pdf",
+          "job_role": "fullstack engineer",
+          "time": "2026-05-11T18:34:59.077Z"
+        },
+        {
+          "name": "Daniel Carter",
+          "score": 85,
+          "experience_level": "Mid",
+          "filename": "Daniel_Carter_Resume.pdf",
+          "job_role": "fullstack engineer",
+          "time": "2026-05-11T18:34:59.077Z"
+        },
+        {
+          "name": "Dr. Michael Brown",
+          "score": 92,
+          "experience_level": "Senior",
+          "filename": "Dr_Michael_Brown_Resume.pdf",
+          "job_role": "General",
+          "time": "2026-05-11T13:31:14.340Z"
+        },
+        {
+          "name": "Dr. Emily Watson",
+          "score": 92,
+          "experience_level": "Senior",
+          "filename": "Dr_Emily_Watson_Resume.pdf",
+          "job_role": "General",
+          "time": "2026-05-11T13:31:14.340Z"
+        },
+        {
+          "name": "Dr. Sophia Anderson",
+          "score": 92,
+          "experience_level": "Senior",
+          "filename": "Dr_Sophia_Anderson_Resume.pdf",
+          "job_role": "General",
+          "time": "2026-05-11T13:31:14.340Z"
+        }
+      ],
+      "score_distribution": {
+        "0-20": 0,
+        "21-40": 0,
+        "41-60": 0,
+        "61-80": 0,
+        "81-100": 6
+      },
+      "uploads_by_day": {
+        "2026-05-11": 6
+      },
+      "job_roles": {
+        "General": {
+          "count": 1,
+          "resume_count": 3,
+          "total_score": 276,
+          "top_candidate": {
+            "name": "Dr. Sophia Anderson",
+            "score": 92,
+            "experience_level": "Senior",
+            "matched_skills": [
+              "Pediatrics",
+              "Child Healthcare",
+              "Vaccination Programs"
+            ]
+          },
+          "last_analyzed": "2026-05-11T13:31:14.340Z",
+          "batches": [
+            {
+              "date": "2026-05-11",
+              "time": "2026-05-11T13:31:14.340Z",
+              "count": 3,
+              "avg_score": 92,
+              "top_candidate": "Dr. Sophia Anderson"
+            }
+          ]
+        },
+        "fullstack engineer": {
+          "count": 1,
+          "resume_count": 3,
+          "total_score": 249,
+          "top_candidate": {
+            "name": "Daniel Carter",
+            "score": 85,
+            "experience_level": "Mid",
+            "matched_skills": [
+              "React",
+              "Node.js",
+              "PostgreSQL"
+            ]
+          },
+          "last_analyzed": "2026-05-11T18:34:59.077Z",
+          "batches": [
+            {
+              "date": "2026-05-11",
+              "time": "2026-05-11T18:34:59.077Z",
+              "count": 3,
+              "avg_score": 83,
+              "top_candidate": "Daniel Carter"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
