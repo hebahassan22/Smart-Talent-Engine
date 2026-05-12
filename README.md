@@ -285,15 +285,7 @@ npm run build
 - 📍 Kerala, India
 - 📧 hebahas105@gmail.com
 - 🔗 [linkedin.com/in/hebahas105](https://linkedin.com/in/hebahas105)
-- 🎓 B.Tech Computer Science Engineering
-- College of Engineering Trikaripur (2022–2026)
 
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
 
 ---
 
